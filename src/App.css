@@ -1,0 +1,42 @@
+
+ .backgoround{
+   background-color: black
+ }
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.main-menu .navbar-nav > .active > a, .main-menu .navbar-nav > .active > a:hover, .main-menu .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #E03561;
+    border-bottom: 3px solid #E03561;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #cccccc;
+}
+.navbar-default .color_drop>li>a {
+    color: #211f1f;
+}
+.text-color h4{
+    color: blueviolet
+}
+.text-color h4:hover{
+    color:brown;
+}
+.space{
+   margin-right: 100px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+}
+.space img{
+   margin-right: 100px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+} 
+.back{
+    background-color: lightslategray;
+}
+
+
+   
